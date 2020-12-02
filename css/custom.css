@@ -1,0 +1,9 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+
+@media (max-width: 767px) {
+    .navbar-light .navbar-brand{
+        margin-left: auto;
+        margin-right: auto;
+	}
+}
